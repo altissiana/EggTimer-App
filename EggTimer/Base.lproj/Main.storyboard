@@ -150,7 +150,7 @@
                     </view>
                     <connections>
                         <outlet property="progressBar" destination="9Yu-gT-kh7" id="ht7-qb-iaL"/>
-                        <outlet property="titleLabel" destination="9S4-l0-41N" id="VF4-WD-RuJ"/>
+                        <outlet property="titleLabel" destination="XLm-5r-pSP" id="WTm-ck-Iqx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

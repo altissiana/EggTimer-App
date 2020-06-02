@@ -13,6 +13,7 @@
 		D3807DAC2485BE1B0062F616 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3807DAA2485BE1B0062F616 /* Main.storyboard */; };
 		D3807DAE2485BE1C0062F616 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3807DAD2485BE1C0062F616 /* Assets.xcassets */; };
 		D3807DB12485BE1C0062F616 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3807DAF2485BE1C0062F616 /* LaunchScreen.storyboard */; };
+		D3807DB92486D1D10062F616 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D3807DB82486D1D10062F616 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D3807DAD2485BE1C0062F616 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3807DB02485BE1C0062F616 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3807DB22485BE1C0062F616 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3807DB82486D1D10062F616 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../EggTimer-iOS13/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D3807DAD2485BE1C0062F616 /* Assets.xcassets */,
 				D3807DAF2485BE1C0062F616 /* LaunchScreen.storyboard */,
 				D3807DB22485BE1C0062F616 /* Info.plist */,
+				D3807DB82486D1D10062F616 /* alarm_sound.mp3 */,
 			);
 			path = EggTimer;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				D3807DB12485BE1C0062F616 /* LaunchScreen.storyboard in Resources */,
 				D3807DAE2485BE1C0062F616 /* Assets.xcassets in Resources */,
+				D3807DB92486D1D10062F616 /* alarm_sound.mp3 in Resources */,
 				D3807DAC2485BE1B0062F616 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
